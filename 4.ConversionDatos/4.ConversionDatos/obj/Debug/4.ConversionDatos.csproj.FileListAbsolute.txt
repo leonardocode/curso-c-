@@ -1,0 +1,7 @@
+C:\Users\desa_senior\source\repos\Maestro C#\4.ConversionDatos\4.ConversionDatos\bin\Debug\4.ConversionDatos.exe.config
+C:\Users\desa_senior\source\repos\Maestro C#\4.ConversionDatos\4.ConversionDatos\bin\Debug\4.ConversionDatos.exe
+C:\Users\desa_senior\source\repos\Maestro C#\4.ConversionDatos\4.ConversionDatos\bin\Debug\4.ConversionDatos.pdb
+C:\Users\desa_senior\source\repos\Maestro C#\4.ConversionDatos\4.ConversionDatos\obj\Debug\4.ConversionDatos.csprojAssemblyReference.cache
+C:\Users\desa_senior\source\repos\Maestro C#\4.ConversionDatos\4.ConversionDatos\obj\Debug\4.ConversionDatos.csproj.CoreCompileInputs.cache
+C:\Users\desa_senior\source\repos\Maestro C#\4.ConversionDatos\4.ConversionDatos\obj\Debug\4.ConversionDatos.exe
+C:\Users\desa_senior\source\repos\Maestro C#\4.ConversionDatos\4.ConversionDatos\obj\Debug\4.ConversionDatos.pdb

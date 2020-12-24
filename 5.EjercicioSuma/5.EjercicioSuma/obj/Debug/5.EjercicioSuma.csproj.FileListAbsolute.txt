@@ -1,0 +1,7 @@
+C:\Users\desa_senior\source\repos\Maestro C#\5.EjercicioSuma\5.EjercicioSuma\bin\Debug\5.EjercicioSuma.exe.config
+C:\Users\desa_senior\source\repos\Maestro C#\5.EjercicioSuma\5.EjercicioSuma\bin\Debug\5.EjercicioSuma.exe
+C:\Users\desa_senior\source\repos\Maestro C#\5.EjercicioSuma\5.EjercicioSuma\bin\Debug\5.EjercicioSuma.pdb
+C:\Users\desa_senior\source\repos\Maestro C#\5.EjercicioSuma\5.EjercicioSuma\obj\Debug\5.EjercicioSuma.csprojAssemblyReference.cache
+C:\Users\desa_senior\source\repos\Maestro C#\5.EjercicioSuma\5.EjercicioSuma\obj\Debug\5.EjercicioSuma.csproj.CoreCompileInputs.cache
+C:\Users\desa_senior\source\repos\Maestro C#\5.EjercicioSuma\5.EjercicioSuma\obj\Debug\5.EjercicioSuma.exe
+C:\Users\desa_senior\source\repos\Maestro C#\5.EjercicioSuma\5.EjercicioSuma\obj\Debug\5.EjercicioSuma.pdb

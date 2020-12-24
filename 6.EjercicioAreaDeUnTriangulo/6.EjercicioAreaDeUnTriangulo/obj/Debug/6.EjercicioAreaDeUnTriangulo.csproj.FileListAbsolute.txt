@@ -1,0 +1,7 @@
+C:\Users\desa_senior\source\repos\Maestro C#\6.EjercicioAreaDeUnTriangulo\6.EjercicioAreaDeUnTriangulo\bin\Debug\6.EjercicioAreaDeUnTriangulo.exe.config
+C:\Users\desa_senior\source\repos\Maestro C#\6.EjercicioAreaDeUnTriangulo\6.EjercicioAreaDeUnTriangulo\bin\Debug\6.EjercicioAreaDeUnTriangulo.exe
+C:\Users\desa_senior\source\repos\Maestro C#\6.EjercicioAreaDeUnTriangulo\6.EjercicioAreaDeUnTriangulo\bin\Debug\6.EjercicioAreaDeUnTriangulo.pdb
+C:\Users\desa_senior\source\repos\Maestro C#\6.EjercicioAreaDeUnTriangulo\6.EjercicioAreaDeUnTriangulo\obj\Debug\6.EjercicioAreaDeUnTriangulo.csprojAssemblyReference.cache
+C:\Users\desa_senior\source\repos\Maestro C#\6.EjercicioAreaDeUnTriangulo\6.EjercicioAreaDeUnTriangulo\obj\Debug\6.EjercicioAreaDeUnTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\desa_senior\source\repos\Maestro C#\6.EjercicioAreaDeUnTriangulo\6.EjercicioAreaDeUnTriangulo\obj\Debug\6.EjercicioAreaDeUnTriangulo.exe
+C:\Users\desa_senior\source\repos\Maestro C#\6.EjercicioAreaDeUnTriangulo\6.EjercicioAreaDeUnTriangulo\obj\Debug\6.EjercicioAreaDeUnTriangulo.pdb

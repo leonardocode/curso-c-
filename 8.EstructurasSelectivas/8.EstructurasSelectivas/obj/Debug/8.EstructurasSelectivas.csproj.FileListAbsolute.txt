@@ -1,0 +1,7 @@
+C:\Users\desa_senior\source\repos\Maestro C#\8.EstructurasSelectivas\8.EstructurasSelectivas\bin\Debug\8.EstructurasSelectivas.exe.config
+C:\Users\desa_senior\source\repos\Maestro C#\8.EstructurasSelectivas\8.EstructurasSelectivas\bin\Debug\8.EstructurasSelectivas.exe
+C:\Users\desa_senior\source\repos\Maestro C#\8.EstructurasSelectivas\8.EstructurasSelectivas\bin\Debug\8.EstructurasSelectivas.pdb
+C:\Users\desa_senior\source\repos\Maestro C#\8.EstructurasSelectivas\8.EstructurasSelectivas\obj\Debug\8.EstructurasSelectivas.csprojAssemblyReference.cache
+C:\Users\desa_senior\source\repos\Maestro C#\8.EstructurasSelectivas\8.EstructurasSelectivas\obj\Debug\8.EstructurasSelectivas.csproj.CoreCompileInputs.cache
+C:\Users\desa_senior\source\repos\Maestro C#\8.EstructurasSelectivas\8.EstructurasSelectivas\obj\Debug\8.EstructurasSelectivas.exe
+C:\Users\desa_senior\source\repos\Maestro C#\8.EstructurasSelectivas\8.EstructurasSelectivas\obj\Debug\8.EstructurasSelectivas.pdb

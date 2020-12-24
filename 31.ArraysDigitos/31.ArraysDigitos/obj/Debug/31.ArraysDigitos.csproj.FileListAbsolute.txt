@@ -1,0 +1,7 @@
+C:\Users\desa_senior\source\repos\Maestro C#\31.ArraysDigitos\31.ArraysDigitos\bin\Debug\31.ArraysDigitos.exe.config
+C:\Users\desa_senior\source\repos\Maestro C#\31.ArraysDigitos\31.ArraysDigitos\bin\Debug\31.ArraysDigitos.exe
+C:\Users\desa_senior\source\repos\Maestro C#\31.ArraysDigitos\31.ArraysDigitos\bin\Debug\31.ArraysDigitos.pdb
+C:\Users\desa_senior\source\repos\Maestro C#\31.ArraysDigitos\31.ArraysDigitos\obj\Debug\31.ArraysDigitos.csprojAssemblyReference.cache
+C:\Users\desa_senior\source\repos\Maestro C#\31.ArraysDigitos\31.ArraysDigitos\obj\Debug\31.ArraysDigitos.csproj.CoreCompileInputs.cache
+C:\Users\desa_senior\source\repos\Maestro C#\31.ArraysDigitos\31.ArraysDigitos\obj\Debug\31.ArraysDigitos.exe
+C:\Users\desa_senior\source\repos\Maestro C#\31.ArraysDigitos\31.ArraysDigitos\obj\Debug\31.ArraysDigitos.pdb

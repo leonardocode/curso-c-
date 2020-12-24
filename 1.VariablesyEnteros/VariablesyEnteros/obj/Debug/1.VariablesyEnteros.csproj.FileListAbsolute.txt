@@ -1,0 +1,7 @@
+C:\Users\desa_senior\source\repos\Maestro C#\VariablesyEnteros\VariablesyEnteros\bin\Debug\VariablesyEnteros.exe.config
+C:\Users\desa_senior\source\repos\Maestro C#\VariablesyEnteros\VariablesyEnteros\bin\Debug\VariablesyEnteros.exe
+C:\Users\desa_senior\source\repos\Maestro C#\VariablesyEnteros\VariablesyEnteros\bin\Debug\VariablesyEnteros.pdb
+C:\Users\desa_senior\source\repos\Maestro C#\VariablesyEnteros\VariablesyEnteros\obj\Debug\1.VariablesyEnteros.csprojAssemblyReference.cache
+C:\Users\desa_senior\source\repos\Maestro C#\VariablesyEnteros\VariablesyEnteros\obj\Debug\1.VariablesyEnteros.csproj.CoreCompileInputs.cache
+C:\Users\desa_senior\source\repos\Maestro C#\VariablesyEnteros\VariablesyEnteros\obj\Debug\VariablesyEnteros.exe
+C:\Users\desa_senior\source\repos\Maestro C#\VariablesyEnteros\VariablesyEnteros\obj\Debug\VariablesyEnteros.pdb

@@ -1,0 +1,7 @@
+C:\Users\desa_senior\source\repos\Maestro C#\22.Rangos\22.Rangos\bin\Debug\22.Rangos.exe.config
+C:\Users\desa_senior\source\repos\Maestro C#\22.Rangos\22.Rangos\bin\Debug\22.Rangos.exe
+C:\Users\desa_senior\source\repos\Maestro C#\22.Rangos\22.Rangos\bin\Debug\22.Rangos.pdb
+C:\Users\desa_senior\source\repos\Maestro C#\22.Rangos\22.Rangos\obj\Debug\22.Rangos.csprojAssemblyReference.cache
+C:\Users\desa_senior\source\repos\Maestro C#\22.Rangos\22.Rangos\obj\Debug\22.Rangos.csproj.CoreCompileInputs.cache
+C:\Users\desa_senior\source\repos\Maestro C#\22.Rangos\22.Rangos\obj\Debug\22.Rangos.exe
+C:\Users\desa_senior\source\repos\Maestro C#\22.Rangos\22.Rangos\obj\Debug\22.Rangos.pdb

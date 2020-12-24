@@ -1,0 +1,7 @@
+C:\Users\desa_senior\source\repos\Maestro C#\11.parOimpar\11.parOimpar\bin\Debug\11.parOimpar.exe.config
+C:\Users\desa_senior\source\repos\Maestro C#\11.parOimpar\11.parOimpar\bin\Debug\11.parOimpar.exe
+C:\Users\desa_senior\source\repos\Maestro C#\11.parOimpar\11.parOimpar\bin\Debug\11.parOimpar.pdb
+C:\Users\desa_senior\source\repos\Maestro C#\11.parOimpar\11.parOimpar\obj\Debug\11.parOimpar.csprojAssemblyReference.cache
+C:\Users\desa_senior\source\repos\Maestro C#\11.parOimpar\11.parOimpar\obj\Debug\11.parOimpar.csproj.CoreCompileInputs.cache
+C:\Users\desa_senior\source\repos\Maestro C#\11.parOimpar\11.parOimpar\obj\Debug\11.parOimpar.exe
+C:\Users\desa_senior\source\repos\Maestro C#\11.parOimpar\11.parOimpar\obj\Debug\11.parOimpar.pdb

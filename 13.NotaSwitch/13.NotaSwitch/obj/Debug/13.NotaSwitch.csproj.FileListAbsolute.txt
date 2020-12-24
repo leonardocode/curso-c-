@@ -1,0 +1,7 @@
+C:\Users\desa_senior\source\repos\Maestro C#\13.NotaSwitch\13.NotaSwitch\bin\Debug\13.NotaSwitch.exe.config
+C:\Users\desa_senior\source\repos\Maestro C#\13.NotaSwitch\13.NotaSwitch\bin\Debug\13.NotaSwitch.exe
+C:\Users\desa_senior\source\repos\Maestro C#\13.NotaSwitch\13.NotaSwitch\bin\Debug\13.NotaSwitch.pdb
+C:\Users\desa_senior\source\repos\Maestro C#\13.NotaSwitch\13.NotaSwitch\obj\Debug\13.NotaSwitch.csprojAssemblyReference.cache
+C:\Users\desa_senior\source\repos\Maestro C#\13.NotaSwitch\13.NotaSwitch\obj\Debug\13.NotaSwitch.csproj.CoreCompileInputs.cache
+C:\Users\desa_senior\source\repos\Maestro C#\13.NotaSwitch\13.NotaSwitch\obj\Debug\13.NotaSwitch.exe
+C:\Users\desa_senior\source\repos\Maestro C#\13.NotaSwitch\13.NotaSwitch\obj\Debug\13.NotaSwitch.pdb

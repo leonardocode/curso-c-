@@ -1,0 +1,7 @@
+C:\Users\desa_senior\source\repos\Maestro C#\20.For\20.For\bin\Debug\20.For.exe.config
+C:\Users\desa_senior\source\repos\Maestro C#\20.For\20.For\bin\Debug\20.For.exe
+C:\Users\desa_senior\source\repos\Maestro C#\20.For\20.For\bin\Debug\20.For.pdb
+C:\Users\desa_senior\source\repos\Maestro C#\20.For\20.For\obj\Debug\20.For.csprojAssemblyReference.cache
+C:\Users\desa_senior\source\repos\Maestro C#\20.For\20.For\obj\Debug\20.For.csproj.CoreCompileInputs.cache
+C:\Users\desa_senior\source\repos\Maestro C#\20.For\20.For\obj\Debug\20.For.exe
+C:\Users\desa_senior\source\repos\Maestro C#\20.For\20.For\obj\Debug\20.For.pdb

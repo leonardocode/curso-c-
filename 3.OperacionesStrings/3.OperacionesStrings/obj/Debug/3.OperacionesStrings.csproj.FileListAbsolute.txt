@@ -1,0 +1,7 @@
+C:\Users\desa_senior\source\repos\Maestro C#\3.OperacionesStrings\3.OperacionesStrings\bin\Debug\3.OperacionesStrings.exe.config
+C:\Users\desa_senior\source\repos\Maestro C#\3.OperacionesStrings\3.OperacionesStrings\bin\Debug\3.OperacionesStrings.exe
+C:\Users\desa_senior\source\repos\Maestro C#\3.OperacionesStrings\3.OperacionesStrings\bin\Debug\3.OperacionesStrings.pdb
+C:\Users\desa_senior\source\repos\Maestro C#\3.OperacionesStrings\3.OperacionesStrings\obj\Debug\3.OperacionesStrings.csprojAssemblyReference.cache
+C:\Users\desa_senior\source\repos\Maestro C#\3.OperacionesStrings\3.OperacionesStrings\obj\Debug\3.OperacionesStrings.csproj.CoreCompileInputs.cache
+C:\Users\desa_senior\source\repos\Maestro C#\3.OperacionesStrings\3.OperacionesStrings\obj\Debug\3.OperacionesStrings.exe
+C:\Users\desa_senior\source\repos\Maestro C#\3.OperacionesStrings\3.OperacionesStrings\obj\Debug\3.OperacionesStrings.pdb

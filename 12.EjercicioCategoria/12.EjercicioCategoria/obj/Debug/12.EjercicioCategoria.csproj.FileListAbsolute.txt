@@ -1,0 +1,7 @@
+C:\Users\desa_senior\source\repos\Maestro C#\12.EjercicioCategoria\12.EjercicioCategoria\bin\Debug\12.EjercicioCategoria.exe.config
+C:\Users\desa_senior\source\repos\Maestro C#\12.EjercicioCategoria\12.EjercicioCategoria\bin\Debug\12.EjercicioCategoria.exe
+C:\Users\desa_senior\source\repos\Maestro C#\12.EjercicioCategoria\12.EjercicioCategoria\bin\Debug\12.EjercicioCategoria.pdb
+C:\Users\desa_senior\source\repos\Maestro C#\12.EjercicioCategoria\12.EjercicioCategoria\obj\Debug\12.EjercicioCategoria.csprojAssemblyReference.cache
+C:\Users\desa_senior\source\repos\Maestro C#\12.EjercicioCategoria\12.EjercicioCategoria\obj\Debug\12.EjercicioCategoria.csproj.CoreCompileInputs.cache
+C:\Users\desa_senior\source\repos\Maestro C#\12.EjercicioCategoria\12.EjercicioCategoria\obj\Debug\12.EjercicioCategoria.exe
+C:\Users\desa_senior\source\repos\Maestro C#\12.EjercicioCategoria\12.EjercicioCategoria\obj\Debug\12.EjercicioCategoria.pdb

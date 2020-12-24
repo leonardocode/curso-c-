@@ -1,0 +1,7 @@
+C:\Users\desa_senior\source\repos\Maestro C#\2.OperacionesBasicas\2.OperacionesBasicas\bin\Debug\2.OperacionesBasicas.exe.config
+C:\Users\desa_senior\source\repos\Maestro C#\2.OperacionesBasicas\2.OperacionesBasicas\bin\Debug\2.OperacionesBasicas.exe
+C:\Users\desa_senior\source\repos\Maestro C#\2.OperacionesBasicas\2.OperacionesBasicas\bin\Debug\2.OperacionesBasicas.pdb
+C:\Users\desa_senior\source\repos\Maestro C#\2.OperacionesBasicas\2.OperacionesBasicas\obj\Debug\2.OperacionesBasicas.csprojAssemblyReference.cache
+C:\Users\desa_senior\source\repos\Maestro C#\2.OperacionesBasicas\2.OperacionesBasicas\obj\Debug\2.OperacionesBasicas.csproj.CoreCompileInputs.cache
+C:\Users\desa_senior\source\repos\Maestro C#\2.OperacionesBasicas\2.OperacionesBasicas\obj\Debug\2.OperacionesBasicas.exe
+C:\Users\desa_senior\source\repos\Maestro C#\2.OperacionesBasicas\2.OperacionesBasicas\obj\Debug\2.OperacionesBasicas.pdb

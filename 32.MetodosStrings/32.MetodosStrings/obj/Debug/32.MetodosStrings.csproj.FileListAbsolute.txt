@@ -1,0 +1,7 @@
+C:\Users\desa_senior\source\repos\Maestro C#\32.MetodosStrings\32.MetodosStrings\bin\Debug\32.MetodosStrings.exe.config
+C:\Users\desa_senior\source\repos\Maestro C#\32.MetodosStrings\32.MetodosStrings\bin\Debug\32.MetodosStrings.exe
+C:\Users\desa_senior\source\repos\Maestro C#\32.MetodosStrings\32.MetodosStrings\bin\Debug\32.MetodosStrings.pdb
+C:\Users\desa_senior\source\repos\Maestro C#\32.MetodosStrings\32.MetodosStrings\obj\Debug\32.MetodosStrings.csprojAssemblyReference.cache
+C:\Users\desa_senior\source\repos\Maestro C#\32.MetodosStrings\32.MetodosStrings\obj\Debug\32.MetodosStrings.csproj.CoreCompileInputs.cache
+C:\Users\desa_senior\source\repos\Maestro C#\32.MetodosStrings\32.MetodosStrings\obj\Debug\32.MetodosStrings.exe
+C:\Users\desa_senior\source\repos\Maestro C#\32.MetodosStrings\32.MetodosStrings\obj\Debug\32.MetodosStrings.pdb

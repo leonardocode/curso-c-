@@ -1,0 +1,7 @@
+C:\Users\desa_senior\source\repos\Maestro C#\19.DoWhile\19.DoWhile\bin\Debug\19.DoWhile.exe.config
+C:\Users\desa_senior\source\repos\Maestro C#\19.DoWhile\19.DoWhile\bin\Debug\19.DoWhile.exe
+C:\Users\desa_senior\source\repos\Maestro C#\19.DoWhile\19.DoWhile\bin\Debug\19.DoWhile.pdb
+C:\Users\desa_senior\source\repos\Maestro C#\19.DoWhile\19.DoWhile\obj\Debug\19.DoWhile.csprojAssemblyReference.cache
+C:\Users\desa_senior\source\repos\Maestro C#\19.DoWhile\19.DoWhile\obj\Debug\19.DoWhile.csproj.CoreCompileInputs.cache
+C:\Users\desa_senior\source\repos\Maestro C#\19.DoWhile\19.DoWhile\obj\Debug\19.DoWhile.exe
+C:\Users\desa_senior\source\repos\Maestro C#\19.DoWhile\19.DoWhile\obj\Debug\19.DoWhile.pdb

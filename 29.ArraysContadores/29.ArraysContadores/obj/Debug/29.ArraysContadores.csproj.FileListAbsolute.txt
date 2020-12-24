@@ -1,0 +1,7 @@
+C:\Users\desa_senior\source\repos\Maestro C#\29.ArraysContadores\29.ArraysContadores\bin\Debug\29.ArraysContadores.exe.config
+C:\Users\desa_senior\source\repos\Maestro C#\29.ArraysContadores\29.ArraysContadores\bin\Debug\29.ArraysContadores.exe
+C:\Users\desa_senior\source\repos\Maestro C#\29.ArraysContadores\29.ArraysContadores\bin\Debug\29.ArraysContadores.pdb
+C:\Users\desa_senior\source\repos\Maestro C#\29.ArraysContadores\29.ArraysContadores\obj\Debug\29.ArraysContadores.csprojAssemblyReference.cache
+C:\Users\desa_senior\source\repos\Maestro C#\29.ArraysContadores\29.ArraysContadores\obj\Debug\29.ArraysContadores.csproj.CoreCompileInputs.cache
+C:\Users\desa_senior\source\repos\Maestro C#\29.ArraysContadores\29.ArraysContadores\obj\Debug\29.ArraysContadores.exe
+C:\Users\desa_senior\source\repos\Maestro C#\29.ArraysContadores\29.ArraysContadores\obj\Debug\29.ArraysContadores.pdb

@@ -1,0 +1,7 @@
+C:\Users\desa_senior\source\repos\Maestro C#\14.DiasSwitch\14.DiasSwitch\bin\Debug\14.DiasSwitch.exe.config
+C:\Users\desa_senior\source\repos\Maestro C#\14.DiasSwitch\14.DiasSwitch\bin\Debug\14.DiasSwitch.exe
+C:\Users\desa_senior\source\repos\Maestro C#\14.DiasSwitch\14.DiasSwitch\bin\Debug\14.DiasSwitch.pdb
+C:\Users\desa_senior\source\repos\Maestro C#\14.DiasSwitch\14.DiasSwitch\obj\Debug\14.DiasSwitch.csprojAssemblyReference.cache
+C:\Users\desa_senior\source\repos\Maestro C#\14.DiasSwitch\14.DiasSwitch\obj\Debug\14.DiasSwitch.csproj.CoreCompileInputs.cache
+C:\Users\desa_senior\source\repos\Maestro C#\14.DiasSwitch\14.DiasSwitch\obj\Debug\14.DiasSwitch.exe
+C:\Users\desa_senior\source\repos\Maestro C#\14.DiasSwitch\14.DiasSwitch\obj\Debug\14.DiasSwitch.pdb

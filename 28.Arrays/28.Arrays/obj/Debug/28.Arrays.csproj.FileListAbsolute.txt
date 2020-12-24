@@ -1,0 +1,7 @@
+C:\Users\desa_senior\source\repos\Maestro C#\28.Arrays\28.Arrays\bin\Debug\28.Arrays.exe.config
+C:\Users\desa_senior\source\repos\Maestro C#\28.Arrays\28.Arrays\bin\Debug\28.Arrays.exe
+C:\Users\desa_senior\source\repos\Maestro C#\28.Arrays\28.Arrays\bin\Debug\28.Arrays.pdb
+C:\Users\desa_senior\source\repos\Maestro C#\28.Arrays\28.Arrays\obj\Debug\28.Arrays.csprojAssemblyReference.cache
+C:\Users\desa_senior\source\repos\Maestro C#\28.Arrays\28.Arrays\obj\Debug\28.Arrays.csproj.CoreCompileInputs.cache
+C:\Users\desa_senior\source\repos\Maestro C#\28.Arrays\28.Arrays\obj\Debug\28.Arrays.exe
+C:\Users\desa_senior\source\repos\Maestro C#\28.Arrays\28.Arrays\obj\Debug\28.Arrays.pdb

@@ -1,0 +1,7 @@
+C:\Users\desa_senior\source\repos\Maestro C#\10.EjercicioComercial\10.EjercicioComercial\bin\Debug\10.EjercicioComercial.exe.config
+C:\Users\desa_senior\source\repos\Maestro C#\10.EjercicioComercial\10.EjercicioComercial\bin\Debug\10.EjercicioComercial.exe
+C:\Users\desa_senior\source\repos\Maestro C#\10.EjercicioComercial\10.EjercicioComercial\bin\Debug\10.EjercicioComercial.pdb
+C:\Users\desa_senior\source\repos\Maestro C#\10.EjercicioComercial\10.EjercicioComercial\obj\Debug\10.EjercicioComercial.csprojAssemblyReference.cache
+C:\Users\desa_senior\source\repos\Maestro C#\10.EjercicioComercial\10.EjercicioComercial\obj\Debug\10.EjercicioComercial.csproj.CoreCompileInputs.cache
+C:\Users\desa_senior\source\repos\Maestro C#\10.EjercicioComercial\10.EjercicioComercial\obj\Debug\10.EjercicioComercial.exe
+C:\Users\desa_senior\source\repos\Maestro C#\10.EjercicioComercial\10.EjercicioComercial\obj\Debug\10.EjercicioComercial.pdb

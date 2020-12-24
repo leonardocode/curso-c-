@@ -1,0 +1,7 @@
+C:\Users\desa_senior\source\repos\Maestro C#\23.Arrays\23.Arrays\bin\Debug\23.Arrays.exe.config
+C:\Users\desa_senior\source\repos\Maestro C#\23.Arrays\23.Arrays\bin\Debug\23.Arrays.exe
+C:\Users\desa_senior\source\repos\Maestro C#\23.Arrays\23.Arrays\bin\Debug\23.Arrays.pdb
+C:\Users\desa_senior\source\repos\Maestro C#\23.Arrays\23.Arrays\obj\Debug\23.Arrays.csprojAssemblyReference.cache
+C:\Users\desa_senior\source\repos\Maestro C#\23.Arrays\23.Arrays\obj\Debug\23.Arrays.csproj.CoreCompileInputs.cache
+C:\Users\desa_senior\source\repos\Maestro C#\23.Arrays\23.Arrays\obj\Debug\23.Arrays.exe
+C:\Users\desa_senior\source\repos\Maestro C#\23.Arrays\23.Arrays\obj\Debug\23.Arrays.pdb

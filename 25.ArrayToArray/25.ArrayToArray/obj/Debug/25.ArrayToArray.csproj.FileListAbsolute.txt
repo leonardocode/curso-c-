@@ -1,0 +1,7 @@
+C:\Users\desa_senior\source\repos\Maestro C#\25.ArrayToArray\25.ArrayToArray\bin\Debug\25.ArrayToArray.exe.config
+C:\Users\desa_senior\source\repos\Maestro C#\25.ArrayToArray\25.ArrayToArray\bin\Debug\25.ArrayToArray.exe
+C:\Users\desa_senior\source\repos\Maestro C#\25.ArrayToArray\25.ArrayToArray\bin\Debug\25.ArrayToArray.pdb
+C:\Users\desa_senior\source\repos\Maestro C#\25.ArrayToArray\25.ArrayToArray\obj\Debug\25.ArrayToArray.csprojAssemblyReference.cache
+C:\Users\desa_senior\source\repos\Maestro C#\25.ArrayToArray\25.ArrayToArray\obj\Debug\25.ArrayToArray.csproj.CoreCompileInputs.cache
+C:\Users\desa_senior\source\repos\Maestro C#\25.ArrayToArray\25.ArrayToArray\obj\Debug\25.ArrayToArray.exe
+C:\Users\desa_senior\source\repos\Maestro C#\25.ArrayToArray\25.ArrayToArray\obj\Debug\25.ArrayToArray.pdb

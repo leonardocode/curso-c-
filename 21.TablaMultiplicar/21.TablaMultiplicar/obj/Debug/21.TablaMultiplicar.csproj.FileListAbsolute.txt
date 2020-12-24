@@ -1,0 +1,7 @@
+C:\Users\desa_senior\source\repos\Maestro C#\21.TablaMultiplicar\21.TablaMultiplicar\bin\Debug\21.TablaMultiplicar.exe.config
+C:\Users\desa_senior\source\repos\Maestro C#\21.TablaMultiplicar\21.TablaMultiplicar\bin\Debug\21.TablaMultiplicar.exe
+C:\Users\desa_senior\source\repos\Maestro C#\21.TablaMultiplicar\21.TablaMultiplicar\bin\Debug\21.TablaMultiplicar.pdb
+C:\Users\desa_senior\source\repos\Maestro C#\21.TablaMultiplicar\21.TablaMultiplicar\obj\Debug\21.TablaMultiplicar.csprojAssemblyReference.cache
+C:\Users\desa_senior\source\repos\Maestro C#\21.TablaMultiplicar\21.TablaMultiplicar\obj\Debug\21.TablaMultiplicar.csproj.CoreCompileInputs.cache
+C:\Users\desa_senior\source\repos\Maestro C#\21.TablaMultiplicar\21.TablaMultiplicar\obj\Debug\21.TablaMultiplicar.exe
+C:\Users\desa_senior\source\repos\Maestro C#\21.TablaMultiplicar\21.TablaMultiplicar\obj\Debug\21.TablaMultiplicar.pdb

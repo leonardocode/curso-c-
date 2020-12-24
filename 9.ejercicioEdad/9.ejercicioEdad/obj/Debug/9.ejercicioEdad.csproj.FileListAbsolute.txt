@@ -1,0 +1,7 @@
+C:\Users\desa_senior\source\repos\Maestro C#\9.ejercicioEdad\9.ejercicioEdad\bin\Debug\9.ejercicioEdad.exe.config
+C:\Users\desa_senior\source\repos\Maestro C#\9.ejercicioEdad\9.ejercicioEdad\bin\Debug\9.ejercicioEdad.exe
+C:\Users\desa_senior\source\repos\Maestro C#\9.ejercicioEdad\9.ejercicioEdad\bin\Debug\9.ejercicioEdad.pdb
+C:\Users\desa_senior\source\repos\Maestro C#\9.ejercicioEdad\9.ejercicioEdad\obj\Debug\9.ejercicioEdad.csprojAssemblyReference.cache
+C:\Users\desa_senior\source\repos\Maestro C#\9.ejercicioEdad\9.ejercicioEdad\obj\Debug\9.ejercicioEdad.csproj.CoreCompileInputs.cache
+C:\Users\desa_senior\source\repos\Maestro C#\9.ejercicioEdad\9.ejercicioEdad\obj\Debug\9.ejercicioEdad.exe
+C:\Users\desa_senior\source\repos\Maestro C#\9.ejercicioEdad\9.ejercicioEdad\obj\Debug\9.ejercicioEdad.pdb

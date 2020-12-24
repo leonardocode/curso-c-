@@ -1,0 +1,7 @@
+C:\Users\desa_senior\source\repos\Maestro C#\18.While\18.While\bin\Debug\18.While.exe.config
+C:\Users\desa_senior\source\repos\Maestro C#\18.While\18.While\bin\Debug\18.While.exe
+C:\Users\desa_senior\source\repos\Maestro C#\18.While\18.While\bin\Debug\18.While.pdb
+C:\Users\desa_senior\source\repos\Maestro C#\18.While\18.While\obj\Debug\18.While.csprojAssemblyReference.cache
+C:\Users\desa_senior\source\repos\Maestro C#\18.While\18.While\obj\Debug\18.While.csproj.CoreCompileInputs.cache
+C:\Users\desa_senior\source\repos\Maestro C#\18.While\18.While\obj\Debug\18.While.exe
+C:\Users\desa_senior\source\repos\Maestro C#\18.While\18.While\obj\Debug\18.While.pdb
