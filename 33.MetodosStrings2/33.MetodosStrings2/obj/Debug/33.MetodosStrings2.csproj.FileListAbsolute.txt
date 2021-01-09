@@ -1,0 +1,7 @@
+E:\Proyectos Leonardo\Proyectos Visual studio\Maestro C#\33.MetodosStrings2\33.MetodosStrings2\bin\Debug\33.MetodosStrings2.exe.config
+E:\Proyectos Leonardo\Proyectos Visual studio\Maestro C#\33.MetodosStrings2\33.MetodosStrings2\bin\Debug\33.MetodosStrings2.exe
+E:\Proyectos Leonardo\Proyectos Visual studio\Maestro C#\33.MetodosStrings2\33.MetodosStrings2\bin\Debug\33.MetodosStrings2.pdb
+E:\Proyectos Leonardo\Proyectos Visual studio\Maestro C#\33.MetodosStrings2\33.MetodosStrings2\obj\Debug\33.MetodosStrings2.csprojAssemblyReference.cache
+E:\Proyectos Leonardo\Proyectos Visual studio\Maestro C#\33.MetodosStrings2\33.MetodosStrings2\obj\Debug\33.MetodosStrings2.csproj.CoreCompileInputs.cache
+E:\Proyectos Leonardo\Proyectos Visual studio\Maestro C#\33.MetodosStrings2\33.MetodosStrings2\obj\Debug\33.MetodosStrings2.exe
+E:\Proyectos Leonardo\Proyectos Visual studio\Maestro C#\33.MetodosStrings2\33.MetodosStrings2\obj\Debug\33.MetodosStrings2.pdb

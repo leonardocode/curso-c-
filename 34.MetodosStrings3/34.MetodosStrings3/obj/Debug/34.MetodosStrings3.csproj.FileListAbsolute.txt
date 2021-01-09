@@ -1,0 +1,7 @@
+E:\Proyectos Leonardo\Proyectos Visual studio\Maestro C#\34.MetodosStrings3\34.MetodosStrings3\bin\Debug\34.MetodosStrings3.exe.config
+E:\Proyectos Leonardo\Proyectos Visual studio\Maestro C#\34.MetodosStrings3\34.MetodosStrings3\bin\Debug\34.MetodosStrings3.exe
+E:\Proyectos Leonardo\Proyectos Visual studio\Maestro C#\34.MetodosStrings3\34.MetodosStrings3\bin\Debug\34.MetodosStrings3.pdb
+E:\Proyectos Leonardo\Proyectos Visual studio\Maestro C#\34.MetodosStrings3\34.MetodosStrings3\obj\Debug\34.MetodosStrings3.csprojAssemblyReference.cache
+E:\Proyectos Leonardo\Proyectos Visual studio\Maestro C#\34.MetodosStrings3\34.MetodosStrings3\obj\Debug\34.MetodosStrings3.csproj.CoreCompileInputs.cache
+E:\Proyectos Leonardo\Proyectos Visual studio\Maestro C#\34.MetodosStrings3\34.MetodosStrings3\obj\Debug\34.MetodosStrings3.exe
+E:\Proyectos Leonardo\Proyectos Visual studio\Maestro C#\34.MetodosStrings3\34.MetodosStrings3\obj\Debug\34.MetodosStrings3.pdb

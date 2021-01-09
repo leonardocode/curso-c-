@@ -5,3 +5,10 @@ C:\Users\desa_senior\source\repos\Maestro C#\32.MetodosStrings\32.MetodosStrings
 C:\Users\desa_senior\source\repos\Maestro C#\32.MetodosStrings\32.MetodosStrings\obj\Debug\32.MetodosStrings.csproj.CoreCompileInputs.cache
 C:\Users\desa_senior\source\repos\Maestro C#\32.MetodosStrings\32.MetodosStrings\obj\Debug\32.MetodosStrings.exe
 C:\Users\desa_senior\source\repos\Maestro C#\32.MetodosStrings\32.MetodosStrings\obj\Debug\32.MetodosStrings.pdb
+E:\Proyectos Leonardo\Proyectos Visual studio\Maestro C#\32.MetodosStrings\32.MetodosStrings\bin\Debug\32.MetodosStrings.exe.config
+E:\Proyectos Leonardo\Proyectos Visual studio\Maestro C#\32.MetodosStrings\32.MetodosStrings\bin\Debug\32.MetodosStrings.exe
+E:\Proyectos Leonardo\Proyectos Visual studio\Maestro C#\32.MetodosStrings\32.MetodosStrings\bin\Debug\32.MetodosStrings.pdb
+E:\Proyectos Leonardo\Proyectos Visual studio\Maestro C#\32.MetodosStrings\32.MetodosStrings\obj\Debug\32.MetodosStrings.csprojAssemblyReference.cache
+E:\Proyectos Leonardo\Proyectos Visual studio\Maestro C#\32.MetodosStrings\32.MetodosStrings\obj\Debug\32.MetodosStrings.csproj.CoreCompileInputs.cache
+E:\Proyectos Leonardo\Proyectos Visual studio\Maestro C#\32.MetodosStrings\32.MetodosStrings\obj\Debug\32.MetodosStrings.exe
+E:\Proyectos Leonardo\Proyectos Visual studio\Maestro C#\32.MetodosStrings\32.MetodosStrings\obj\Debug\32.MetodosStrings.pdb
