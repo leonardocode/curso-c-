@@ -1,0 +1,7 @@
+C:\Users\Leonardo Amaya\source\repos\37.MetodosNumeros\37.MetodosNumeros\bin\Debug\37.MetodosNumeros.exe.config
+C:\Users\Leonardo Amaya\source\repos\37.MetodosNumeros\37.MetodosNumeros\bin\Debug\37.MetodosNumeros.exe
+C:\Users\Leonardo Amaya\source\repos\37.MetodosNumeros\37.MetodosNumeros\bin\Debug\37.MetodosNumeros.pdb
+C:\Users\Leonardo Amaya\source\repos\37.MetodosNumeros\37.MetodosNumeros\obj\Debug\37.MetodosNumeros.csprojAssemblyReference.cache
+C:\Users\Leonardo Amaya\source\repos\37.MetodosNumeros\37.MetodosNumeros\obj\Debug\37.MetodosNumeros.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo Amaya\source\repos\37.MetodosNumeros\37.MetodosNumeros\obj\Debug\37.MetodosNumeros.exe
+C:\Users\Leonardo Amaya\source\repos\37.MetodosNumeros\37.MetodosNumeros\obj\Debug\37.MetodosNumeros.pdb
