@@ -1,0 +1,7 @@
+E:\Proyectos Leonardo\Proyectos Visual studio\Maestro C#\39.indexof,find y findall\39.indexof,find y findall\bin\Debug\39.indexof,find y findall.exe.config
+E:\Proyectos Leonardo\Proyectos Visual studio\Maestro C#\39.indexof,find y findall\39.indexof,find y findall\bin\Debug\39.indexof,find y findall.exe
+E:\Proyectos Leonardo\Proyectos Visual studio\Maestro C#\39.indexof,find y findall\39.indexof,find y findall\bin\Debug\39.indexof,find y findall.pdb
+E:\Proyectos Leonardo\Proyectos Visual studio\Maestro C#\39.indexof,find y findall\39.indexof,find y findall\obj\Debug\39.indexof,find y findall.csprojAssemblyReference.cache
+E:\Proyectos Leonardo\Proyectos Visual studio\Maestro C#\39.indexof,find y findall\39.indexof,find y findall\obj\Debug\39.indexof,find y findall.csproj.CoreCompileInputs.cache
+E:\Proyectos Leonardo\Proyectos Visual studio\Maestro C#\39.indexof,find y findall\39.indexof,find y findall\obj\Debug\39.indexof,find y findall.exe
+E:\Proyectos Leonardo\Proyectos Visual studio\Maestro C#\39.indexof,find y findall\39.indexof,find y findall\obj\Debug\39.indexof,find y findall.pdb

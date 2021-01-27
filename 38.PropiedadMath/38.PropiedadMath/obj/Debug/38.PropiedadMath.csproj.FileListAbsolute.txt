@@ -1,0 +1,7 @@
+E:\Proyectos Leonardo\Proyectos Visual studio\Maestro C#\38.PropiedadMath\38.PropiedadMath\bin\Debug\38.PropiedadMath.exe.config
+E:\Proyectos Leonardo\Proyectos Visual studio\Maestro C#\38.PropiedadMath\38.PropiedadMath\bin\Debug\38.PropiedadMath.exe
+E:\Proyectos Leonardo\Proyectos Visual studio\Maestro C#\38.PropiedadMath\38.PropiedadMath\bin\Debug\38.PropiedadMath.pdb
+E:\Proyectos Leonardo\Proyectos Visual studio\Maestro C#\38.PropiedadMath\38.PropiedadMath\obj\Debug\38.PropiedadMath.csprojAssemblyReference.cache
+E:\Proyectos Leonardo\Proyectos Visual studio\Maestro C#\38.PropiedadMath\38.PropiedadMath\obj\Debug\38.PropiedadMath.csproj.CoreCompileInputs.cache
+E:\Proyectos Leonardo\Proyectos Visual studio\Maestro C#\38.PropiedadMath\38.PropiedadMath\obj\Debug\38.PropiedadMath.exe
+E:\Proyectos Leonardo\Proyectos Visual studio\Maestro C#\38.PropiedadMath\38.PropiedadMath\obj\Debug\38.PropiedadMath.pdb

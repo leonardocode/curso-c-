@@ -1,0 +1,7 @@
+E:\Proyectos Leonardo\Proyectos Visual studio\Maestro C#\40.FindIndex,FindLast\40.FindIndex,FindLast\bin\Debug\40.FindIndex,FindLast.exe.config
+E:\Proyectos Leonardo\Proyectos Visual studio\Maestro C#\40.FindIndex,FindLast\40.FindIndex,FindLast\bin\Debug\40.FindIndex,FindLast.exe
+E:\Proyectos Leonardo\Proyectos Visual studio\Maestro C#\40.FindIndex,FindLast\40.FindIndex,FindLast\bin\Debug\40.FindIndex,FindLast.pdb
+E:\Proyectos Leonardo\Proyectos Visual studio\Maestro C#\40.FindIndex,FindLast\40.FindIndex,FindLast\obj\Debug\40.FindIndex,FindLast.csprojAssemblyReference.cache
+E:\Proyectos Leonardo\Proyectos Visual studio\Maestro C#\40.FindIndex,FindLast\40.FindIndex,FindLast\obj\Debug\40.FindIndex,FindLast.csproj.CoreCompileInputs.cache
+E:\Proyectos Leonardo\Proyectos Visual studio\Maestro C#\40.FindIndex,FindLast\40.FindIndex,FindLast\obj\Debug\40.FindIndex,FindLast.exe
+E:\Proyectos Leonardo\Proyectos Visual studio\Maestro C#\40.FindIndex,FindLast\40.FindIndex,FindLast\obj\Debug\40.FindIndex,FindLast.pdb
