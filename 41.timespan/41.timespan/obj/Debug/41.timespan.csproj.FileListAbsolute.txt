@@ -1,0 +1,7 @@
+E:\Proyectos Leonardo\Proyectos Visual studio\Maestro C#\41.timespan\41.timespan\bin\Debug\41.timespan.exe.config
+E:\Proyectos Leonardo\Proyectos Visual studio\Maestro C#\41.timespan\41.timespan\bin\Debug\41.timespan.exe
+E:\Proyectos Leonardo\Proyectos Visual studio\Maestro C#\41.timespan\41.timespan\bin\Debug\41.timespan.pdb
+E:\Proyectos Leonardo\Proyectos Visual studio\Maestro C#\41.timespan\41.timespan\obj\Debug\41.timespan.csprojAssemblyReference.cache
+E:\Proyectos Leonardo\Proyectos Visual studio\Maestro C#\41.timespan\41.timespan\obj\Debug\41.timespan.csproj.CoreCompileInputs.cache
+E:\Proyectos Leonardo\Proyectos Visual studio\Maestro C#\41.timespan\41.timespan\obj\Debug\41.timespan.exe
+E:\Proyectos Leonardo\Proyectos Visual studio\Maestro C#\41.timespan\41.timespan\obj\Debug\41.timespan.pdb

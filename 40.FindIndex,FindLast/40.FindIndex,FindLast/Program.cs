@@ -21,6 +21,23 @@ namespace _40.FindIndex_FindLast
             Console.WriteLine("El indice del  primer numero de adelante para atras es: "+adelanteAtras);
             Console.WriteLine("Su valor es: "+numeros[adelanteAtras]);
 
+            int derechaIzquierda = Array.FindLastIndex(numeros,p => p < 14);
+            Console.WriteLine("El indice es: "+ derechaIzquierda);
+            Console.WriteLine("El valor es: " + numeros[derechaIzquierda]);
+
+            //buscar nombres en el array
+            //p es variable de rango que recorrera cada elemento del array
+           bool exito =  Array.Exists(nombres, p => p.StartsWith("P"));
+            if(exito)
+            {
+                Console.WriteLine("Hay elementos que cumplen con la condicion");
+            }
+            else
+            {
+                Console.WriteLine("No hay elementos que cumplan la condicion");
+            }
+                
+
             Console.ReadKey();
         }
     }
