@@ -1,0 +1,7 @@
+E:\Proyectos Leonardo\Proyectos Visual studio\Maestro C#\42.funciones\42.funciones\bin\Debug\42.funciones.exe.config
+E:\Proyectos Leonardo\Proyectos Visual studio\Maestro C#\42.funciones\42.funciones\bin\Debug\42.funciones.exe
+E:\Proyectos Leonardo\Proyectos Visual studio\Maestro C#\42.funciones\42.funciones\bin\Debug\42.funciones.pdb
+E:\Proyectos Leonardo\Proyectos Visual studio\Maestro C#\42.funciones\42.funciones\obj\Debug\42.funciones.csprojAssemblyReference.cache
+E:\Proyectos Leonardo\Proyectos Visual studio\Maestro C#\42.funciones\42.funciones\obj\Debug\42.funciones.csproj.CoreCompileInputs.cache
+E:\Proyectos Leonardo\Proyectos Visual studio\Maestro C#\42.funciones\42.funciones\obj\Debug\42.funciones.exe
+E:\Proyectos Leonardo\Proyectos Visual studio\Maestro C#\42.funciones\42.funciones\obj\Debug\42.funciones.pdb

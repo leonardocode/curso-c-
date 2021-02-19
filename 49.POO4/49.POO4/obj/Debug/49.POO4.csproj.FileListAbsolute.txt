@@ -1,0 +1,7 @@
+E:\Proyectos Leonardo\Proyectos Visual studio\Maestro C#\49.POO4\49.POO4\bin\Debug\49.POO4.exe.config
+E:\Proyectos Leonardo\Proyectos Visual studio\Maestro C#\49.POO4\49.POO4\bin\Debug\49.POO4.exe
+E:\Proyectos Leonardo\Proyectos Visual studio\Maestro C#\49.POO4\49.POO4\bin\Debug\49.POO4.pdb
+E:\Proyectos Leonardo\Proyectos Visual studio\Maestro C#\49.POO4\49.POO4\obj\Debug\49.POO4.csprojAssemblyReference.cache
+E:\Proyectos Leonardo\Proyectos Visual studio\Maestro C#\49.POO4\49.POO4\obj\Debug\49.POO4.csproj.CoreCompileInputs.cache
+E:\Proyectos Leonardo\Proyectos Visual studio\Maestro C#\49.POO4\49.POO4\obj\Debug\49.POO4.exe
+E:\Proyectos Leonardo\Proyectos Visual studio\Maestro C#\49.POO4\49.POO4\obj\Debug\49.POO4.pdb
