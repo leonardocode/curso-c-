@@ -1,0 +1,7 @@
+D:\Desarrollo\Maestro C#\curso-c-\50.ejercicio1POO\50.ejercicio1POO\bin\Debug\50.ejercicio1POO.exe.config
+D:\Desarrollo\Maestro C#\curso-c-\50.ejercicio1POO\50.ejercicio1POO\bin\Debug\50.ejercicio1POO.exe
+D:\Desarrollo\Maestro C#\curso-c-\50.ejercicio1POO\50.ejercicio1POO\bin\Debug\50.ejercicio1POO.pdb
+D:\Desarrollo\Maestro C#\curso-c-\50.ejercicio1POO\50.ejercicio1POO\obj\Debug\50.ejercicio1POO.csprojAssemblyReference.cache
+D:\Desarrollo\Maestro C#\curso-c-\50.ejercicio1POO\50.ejercicio1POO\obj\Debug\50.ejercicio1POO.csproj.CoreCompileInputs.cache
+D:\Desarrollo\Maestro C#\curso-c-\50.ejercicio1POO\50.ejercicio1POO\obj\Debug\50.ejercicio1POO.exe
+D:\Desarrollo\Maestro C#\curso-c-\50.ejercicio1POO\50.ejercicio1POO\obj\Debug\50.ejercicio1POO.pdb

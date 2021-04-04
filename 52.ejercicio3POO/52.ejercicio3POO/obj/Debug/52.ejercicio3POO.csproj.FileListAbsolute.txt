@@ -1,0 +1,7 @@
+D:\Desarrollo\Maestro C#\curso-c-\52.ejercicio3POO\52.ejercicio3POO\bin\Debug\52.ejercicio3POO.exe.config
+D:\Desarrollo\Maestro C#\curso-c-\52.ejercicio3POO\52.ejercicio3POO\bin\Debug\52.ejercicio3POO.exe
+D:\Desarrollo\Maestro C#\curso-c-\52.ejercicio3POO\52.ejercicio3POO\bin\Debug\52.ejercicio3POO.pdb
+D:\Desarrollo\Maestro C#\curso-c-\52.ejercicio3POO\52.ejercicio3POO\obj\Debug\52.ejercicio3POO.csprojAssemblyReference.cache
+D:\Desarrollo\Maestro C#\curso-c-\52.ejercicio3POO\52.ejercicio3POO\obj\Debug\52.ejercicio3POO.csproj.CoreCompileInputs.cache
+D:\Desarrollo\Maestro C#\curso-c-\52.ejercicio3POO\52.ejercicio3POO\obj\Debug\52.ejercicio3POO.exe
+D:\Desarrollo\Maestro C#\curso-c-\52.ejercicio3POO\52.ejercicio3POO\obj\Debug\52.ejercicio3POO.pdb

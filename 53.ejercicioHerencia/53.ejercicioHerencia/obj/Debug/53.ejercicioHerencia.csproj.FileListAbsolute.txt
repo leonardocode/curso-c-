@@ -1,0 +1,7 @@
+D:\Desarrollo\Maestro C#\curso-c-\53.ejercicioHerencia\53.ejercicioHerencia\bin\Debug\53.ejercicioHerencia.exe.config
+D:\Desarrollo\Maestro C#\curso-c-\53.ejercicioHerencia\53.ejercicioHerencia\bin\Debug\53.ejercicioHerencia.exe
+D:\Desarrollo\Maestro C#\curso-c-\53.ejercicioHerencia\53.ejercicioHerencia\bin\Debug\53.ejercicioHerencia.pdb
+D:\Desarrollo\Maestro C#\curso-c-\53.ejercicioHerencia\53.ejercicioHerencia\obj\Debug\53.ejercicioHerencia.csprojAssemblyReference.cache
+D:\Desarrollo\Maestro C#\curso-c-\53.ejercicioHerencia\53.ejercicioHerencia\obj\Debug\53.ejercicioHerencia.csproj.CoreCompileInputs.cache
+D:\Desarrollo\Maestro C#\curso-c-\53.ejercicioHerencia\53.ejercicioHerencia\obj\Debug\53.ejercicioHerencia.exe
+D:\Desarrollo\Maestro C#\curso-c-\53.ejercicioHerencia\53.ejercicioHerencia\obj\Debug\53.ejercicioHerencia.pdb
