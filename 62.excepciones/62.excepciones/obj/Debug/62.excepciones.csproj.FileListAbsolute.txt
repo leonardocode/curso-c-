@@ -1,0 +1,7 @@
+D:\Desarrollo\Maestro C#\curso-c-\62.excepciones\62.excepciones\bin\Debug\62.excepciones.exe.config
+D:\Desarrollo\Maestro C#\curso-c-\62.excepciones\62.excepciones\bin\Debug\62.excepciones.exe
+D:\Desarrollo\Maestro C#\curso-c-\62.excepciones\62.excepciones\bin\Debug\62.excepciones.pdb
+D:\Desarrollo\Maestro C#\curso-c-\62.excepciones\62.excepciones\obj\Debug\62.excepciones.csprojAssemblyReference.cache
+D:\Desarrollo\Maestro C#\curso-c-\62.excepciones\62.excepciones\obj\Debug\62.excepciones.csproj.CoreCompileInputs.cache
+D:\Desarrollo\Maestro C#\curso-c-\62.excepciones\62.excepciones\obj\Debug\62.excepciones.exe
+D:\Desarrollo\Maestro C#\curso-c-\62.excepciones\62.excepciones\obj\Debug\62.excepciones.pdb

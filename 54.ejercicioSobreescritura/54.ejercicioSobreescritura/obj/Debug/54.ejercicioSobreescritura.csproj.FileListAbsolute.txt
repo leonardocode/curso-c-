@@ -1,0 +1,7 @@
+D:\Desarrollo\Maestro C#\curso-c-\54.ejercicioSobreescritura\54.ejercicioSobreescritura\bin\Debug\54.ejercicioSobreescritura.exe.config
+D:\Desarrollo\Maestro C#\curso-c-\54.ejercicioSobreescritura\54.ejercicioSobreescritura\bin\Debug\54.ejercicioSobreescritura.exe
+D:\Desarrollo\Maestro C#\curso-c-\54.ejercicioSobreescritura\54.ejercicioSobreescritura\bin\Debug\54.ejercicioSobreescritura.pdb
+D:\Desarrollo\Maestro C#\curso-c-\54.ejercicioSobreescritura\54.ejercicioSobreescritura\obj\Debug\54.ejercicioSobreescritura.csprojAssemblyReference.cache
+D:\Desarrollo\Maestro C#\curso-c-\54.ejercicioSobreescritura\54.ejercicioSobreescritura\obj\Debug\54.ejercicioSobreescritura.csproj.CoreCompileInputs.cache
+D:\Desarrollo\Maestro C#\curso-c-\54.ejercicioSobreescritura\54.ejercicioSobreescritura\obj\Debug\54.ejercicioSobreescritura.exe
+D:\Desarrollo\Maestro C#\curso-c-\54.ejercicioSobreescritura\54.ejercicioSobreescritura\obj\Debug\54.ejercicioSobreescritura.pdb

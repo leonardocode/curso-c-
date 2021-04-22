@@ -1,0 +1,7 @@
+D:\Desarrollo\Maestro C#\curso-c-\64.ClaseFile\64.ClaseFile\bin\Debug\64.ClaseFile.exe.config
+D:\Desarrollo\Maestro C#\curso-c-\64.ClaseFile\64.ClaseFile\bin\Debug\64.ClaseFile.exe
+D:\Desarrollo\Maestro C#\curso-c-\64.ClaseFile\64.ClaseFile\bin\Debug\64.ClaseFile.pdb
+D:\Desarrollo\Maestro C#\curso-c-\64.ClaseFile\64.ClaseFile\obj\Debug\64.ClaseFile.csprojAssemblyReference.cache
+D:\Desarrollo\Maestro C#\curso-c-\64.ClaseFile\64.ClaseFile\obj\Debug\64.ClaseFile.csproj.CoreCompileInputs.cache
+D:\Desarrollo\Maestro C#\curso-c-\64.ClaseFile\64.ClaseFile\obj\Debug\64.ClaseFile.exe
+D:\Desarrollo\Maestro C#\curso-c-\64.ClaseFile\64.ClaseFile\obj\Debug\64.ClaseFile.pdb

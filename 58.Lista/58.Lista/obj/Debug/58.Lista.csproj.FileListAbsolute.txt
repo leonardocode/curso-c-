@@ -1,0 +1,7 @@
+D:\Desarrollo\Maestro C#\curso-c-\58.Lista\58.Lista\bin\Debug\58.Lista.exe.config
+D:\Desarrollo\Maestro C#\curso-c-\58.Lista\58.Lista\bin\Debug\58.Lista.exe
+D:\Desarrollo\Maestro C#\curso-c-\58.Lista\58.Lista\bin\Debug\58.Lista.pdb
+D:\Desarrollo\Maestro C#\curso-c-\58.Lista\58.Lista\obj\Debug\58.Lista.csproj.CoreCompileInputs.cache
+D:\Desarrollo\Maestro C#\curso-c-\58.Lista\58.Lista\obj\Debug\58.Lista.exe
+D:\Desarrollo\Maestro C#\curso-c-\58.Lista\58.Lista\obj\Debug\58.Lista.pdb
+D:\Desarrollo\Maestro C#\curso-c-\58.Lista\58.Lista\obj\Debug\58.Lista.csprojAssemblyReference.cache

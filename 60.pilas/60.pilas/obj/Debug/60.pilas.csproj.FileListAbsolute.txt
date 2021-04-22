@@ -1,0 +1,7 @@
+D:\Desarrollo\Maestro C#\curso-c-\60.pilas\60.pilas\bin\Debug\60.pilas.exe.config
+D:\Desarrollo\Maestro C#\curso-c-\60.pilas\60.pilas\bin\Debug\60.pilas.exe
+D:\Desarrollo\Maestro C#\curso-c-\60.pilas\60.pilas\bin\Debug\60.pilas.pdb
+D:\Desarrollo\Maestro C#\curso-c-\60.pilas\60.pilas\obj\Debug\60.pilas.csprojAssemblyReference.cache
+D:\Desarrollo\Maestro C#\curso-c-\60.pilas\60.pilas\obj\Debug\60.pilas.csproj.CoreCompileInputs.cache
+D:\Desarrollo\Maestro C#\curso-c-\60.pilas\60.pilas\obj\Debug\60.pilas.exe
+D:\Desarrollo\Maestro C#\curso-c-\60.pilas\60.pilas\obj\Debug\60.pilas.pdb

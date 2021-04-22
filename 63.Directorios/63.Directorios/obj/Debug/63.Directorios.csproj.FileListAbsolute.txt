@@ -1,0 +1,7 @@
+D:\Desarrollo\Maestro C#\curso-c-\63.Directorios\63.Directorios\bin\Debug\63.Directorios.exe.config
+D:\Desarrollo\Maestro C#\curso-c-\63.Directorios\63.Directorios\bin\Debug\63.Directorios.exe
+D:\Desarrollo\Maestro C#\curso-c-\63.Directorios\63.Directorios\bin\Debug\63.Directorios.pdb
+D:\Desarrollo\Maestro C#\curso-c-\63.Directorios\63.Directorios\obj\Debug\63.Directorios.csprojAssemblyReference.cache
+D:\Desarrollo\Maestro C#\curso-c-\63.Directorios\63.Directorios\obj\Debug\63.Directorios.csproj.CoreCompileInputs.cache
+D:\Desarrollo\Maestro C#\curso-c-\63.Directorios\63.Directorios\obj\Debug\63.Directorios.exe
+D:\Desarrollo\Maestro C#\curso-c-\63.Directorios\63.Directorios\obj\Debug\63.Directorios.pdb

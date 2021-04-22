@@ -1,0 +1,5 @@
+D:\Desarrollo\Maestro C#\curso-c-\57.Ejercicio01Herencia\57.Ejercicio01Herencia\bin\Debug\57.Ejercicio01Herencia.exe
+D:\Desarrollo\Maestro C#\curso-c-\57.Ejercicio01Herencia\57.Ejercicio01Herencia\bin\Debug\57.Ejercicio01Herencia.exe.config
+D:\Desarrollo\Maestro C#\curso-c-\57.Ejercicio01Herencia\57.Ejercicio01Herencia\obj\Debug\57.Ejercicio01Herencia.csproj.CoreCompileInputs.cache
+D:\Desarrollo\Maestro C#\curso-c-\57.Ejercicio01Herencia\57.Ejercicio01Herencia\obj\Debug\57.Ejercicio01Herencia.exe
+D:\Desarrollo\Maestro C#\curso-c-\57.Ejercicio01Herencia\57.Ejercicio01Herencia\obj\Debug\57.Ejercicio01Herencia.pdb

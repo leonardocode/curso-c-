@@ -1,0 +1,7 @@
+D:\Desarrollo\Maestro C#\curso-c-\55.MetodosClasesAbstractas\55.MetodosClasesAbstractas\bin\Debug\55.MetodosClasesAbstractas.exe.config
+D:\Desarrollo\Maestro C#\curso-c-\55.MetodosClasesAbstractas\55.MetodosClasesAbstractas\bin\Debug\55.MetodosClasesAbstractas.exe
+D:\Desarrollo\Maestro C#\curso-c-\55.MetodosClasesAbstractas\55.MetodosClasesAbstractas\bin\Debug\55.MetodosClasesAbstractas.pdb
+D:\Desarrollo\Maestro C#\curso-c-\55.MetodosClasesAbstractas\55.MetodosClasesAbstractas\obj\Debug\55.MetodosClasesAbstractas.csprojAssemblyReference.cache
+D:\Desarrollo\Maestro C#\curso-c-\55.MetodosClasesAbstractas\55.MetodosClasesAbstractas\obj\Debug\55.MetodosClasesAbstractas.csproj.CoreCompileInputs.cache
+D:\Desarrollo\Maestro C#\curso-c-\55.MetodosClasesAbstractas\55.MetodosClasesAbstractas\obj\Debug\55.MetodosClasesAbstractas.exe
+D:\Desarrollo\Maestro C#\curso-c-\55.MetodosClasesAbstractas\55.MetodosClasesAbstractas\obj\Debug\55.MetodosClasesAbstractas.pdb
