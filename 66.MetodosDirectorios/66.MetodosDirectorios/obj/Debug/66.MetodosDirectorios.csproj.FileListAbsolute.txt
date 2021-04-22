@@ -1,0 +1,7 @@
+D:\Desarrollo\Maestro C#\curso-c-\66.MetodosDirectorios\66.MetodosDirectorios\bin\Debug\66.MetodosDirectorios.exe.config
+D:\Desarrollo\Maestro C#\curso-c-\66.MetodosDirectorios\66.MetodosDirectorios\bin\Debug\66.MetodosDirectorios.exe
+D:\Desarrollo\Maestro C#\curso-c-\66.MetodosDirectorios\66.MetodosDirectorios\bin\Debug\66.MetodosDirectorios.pdb
+D:\Desarrollo\Maestro C#\curso-c-\66.MetodosDirectorios\66.MetodosDirectorios\obj\Debug\66.MetodosDirectorios.csprojAssemblyReference.cache
+D:\Desarrollo\Maestro C#\curso-c-\66.MetodosDirectorios\66.MetodosDirectorios\obj\Debug\66.MetodosDirectorios.csproj.CoreCompileInputs.cache
+D:\Desarrollo\Maestro C#\curso-c-\66.MetodosDirectorios\66.MetodosDirectorios\obj\Debug\66.MetodosDirectorios.exe
+D:\Desarrollo\Maestro C#\curso-c-\66.MetodosDirectorios\66.MetodosDirectorios\obj\Debug\66.MetodosDirectorios.pdb
